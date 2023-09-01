@@ -8,4 +8,8 @@
 */
 
 
-document.getElementById('p1').innerHTML = "This is a test!"
+document.getElementById('p1').innerHTML = "This is a test!";
+document.write("Hi there!");
+// alert("This is a test!");
+// print("This is a test!");
+// prompt("This is a test!");
